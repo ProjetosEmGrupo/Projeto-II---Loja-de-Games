@@ -1,0 +1,9 @@
+O projeto é uma pequena área de contatos.
+
+Para acessa-la, basta realizar um contato.
+
+Após isso, clique no link de "Mensagem" da barra
+superior para vê-lo cadastrado...
+
+A string de conexão com banco de dados está no 
+arquivo "conexao.php"
